@@ -132,3 +132,4 @@ C:\Users\Leo\source\repos\ApiClients\ApiClients\obj\Debug\net5.0\ApiClients.dll
 C:\Users\Leo\source\repos\ApiClients\ApiClients\obj\Debug\net5.0\ref\ApiClients.dll
 C:\Users\Leo\source\repos\ApiClients\ApiClients\obj\Debug\net5.0\ApiClients.pdb
 C:\Users\Leo\source\repos\ApiClients\ApiClients\obj\Debug\net5.0\ApiClients.genruntimeconfig.cache
+C:\Users\Leo\source\repos\ApiClients\ApiClients\obj\Debug\net5.0\ApiClients.csproj.AssemblyReference.cache
